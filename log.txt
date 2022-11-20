@@ -1,0 +1,97 @@
+{
+  _id: new ObjectId("627ca147d85ba9b37b307766"),
+  name: 'sd',
+  category: 'cardio',
+  timeslot: 2022-05-12T12:05:00.000Z,
+  __v: 0
+}{
+  _id: new ObjectId("627ca15dd85ba9b37b30776f"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T13:00:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627cbad9a1ecc188a657335e"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T13:16:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627cbcc3ec4c2ee4e8e964f2"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T13:24:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627cbd8dcc1f64183e97294e"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T13:27:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627ca0d8d85ba9b37b30774c"),
+  name: 'sd',
+  category: 'weight lifting',
+  timeslot: 2022-05-12T14:00:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627cd7118c647787cbf129a4"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T16:00:00.000Z,
+  timeslot_end: 2022-05-12T16:30:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627cd7ab8c647787cbf129af"),
+  name: 'sd',
+  category: 'cardio',
+  timeslot: 2022-05-12T16:31:00.000Z,
+  timeslot_end: 2022-05-12T17:00:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627de7a45122ee2ee3b5f3e9"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T16:45:00.000Z,
+  timeslot_end: 2022-05-12T16:50:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627de7f25122ee2ee3b5f3f5"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-12T16:45:00.000Z,
+  timeslot_end: 2022-05-12T16:50:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627de85c5122ee2ee3b5f402"),
+  name: 'sd',
+  category: 'cardio',
+  timeslot: 2022-05-14T16:00:00.000Z,
+  timeslot_end: 2022-05-14T17:00:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627de8a15122ee2ee3b5f40b"),
+  name: 'sd',
+  category: 'athletics',
+  timeslot: 2022-05-14T16:00:00.000Z,
+  timeslot_end: 2022-05-14T17:00:00.000Z,
+  __v: 0
+}
+{
+  _id: new ObjectId("627e1475acca5d047e1c0558"),
+  name: 'sd',
+  category: 'weight lifting',
+  timeslot: 2022-05-14T17:00:00.000Z,
+  timeslot_end: 2022-05-14T18:50:00.000Z,
+  __v: 0
+}
