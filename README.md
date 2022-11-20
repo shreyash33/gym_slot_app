@@ -1,1 +1,1 @@
-# nodejs
+# gym_slot_app
